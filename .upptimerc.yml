@@ -1,0 +1,90 @@
+# Change these first
+owner: LER0ever # Your GitHub organization or username, where this repository lives
+repo: Status # The name of this repository
+
+sites:
+  - name: '[Web] Homepage'
+    # slug: web-home
+    url: https://rongyi.xyz
+  - name: '[Web] Academic Site'
+    # slug: web-academic
+    url: https://rongyi.ai
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png
+  - name: '[Web] Blog'
+    # slug: web-blog
+    url: https://rongyi.blog
+  - name: '[Web] Status Site itself'
+    # slug: web-status
+    url: https://status.rongyi.io
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg
+  - name: '[Dev] Lab @ rongyi.io'
+    # slug: dev-lab
+    url: https://lab.rongyi.io
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/GitLab-logo.png
+  - name: '[Dev] CR @ rongyi.io'
+    # slug: dev-gerrit
+    url: https://cr.rongyi.io
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Gerrit-logo.png
+  - name: '[Email] HEY (@rongyi.xyz) inbound'
+    # slug: email-hey-mx
+    check: "tcp-ping"
+    url: work-mx.app.hey.com
+    port: 25
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Hey-logo.png
+  - name: '[Email] G Suite (@rongyi.io) inbound'
+    # slug: email-gsuite-mx
+    check: "tcp-ping"
+    url: aspmx.l.google.com
+    port: 25
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Google-logo.png
+  - name: '[Email] G Suite (@rongyi.io) outbound'
+    # slug: email-gsuite-smtp
+    check: "tcp-ping"
+    url: smtp.gmail.com
+    port: 587
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Google-logo.png
+  - name: '[Email] Office 365 (@ry.sb) inbound'
+    # slug: email-office365-mx
+    check: "tcp-ping"
+    url: ry-sb.mail.protection.outlook.com
+    port: 25
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Office-logo.png
+  - name: '[Email] Office 365 (@ry.sb) outbound'
+    # slug: email-office365-smtp
+    check: "tcp-ping"
+    url: smtp.office365.com
+    port: 587
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Office-logo.png
+  - name: '[Email] Relay / Bounce (r.rongyi.xyz)'
+    # slug: email-simplelogin-mx
+    url: mx1.simplelogin.co
+    check: "tcp-ping"
+    port: 25
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Simplelogin-logo.png
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.rongyi.io
+  theme: night
+  # baseUrl: /your-repo-name
+  logoUrl: https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg
+  name: "Status @ rongyi.io"
+  introTitle: "Status @ rongyi.io"
+  introMessage: "Status Page and Uptime Monitor for LER0ever's Websites and Services"
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
