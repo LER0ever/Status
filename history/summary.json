@@ -4,9 +4,9 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 587,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   },
   {
     "name": "[Web] Academic Site",
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 375,
     "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   },
   {
     "name": "[Web] Blog",
     "url": "https://rongyi.blog",
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 394,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   },
   {
     "name": "[Web] Status Site itself",
