@@ -4,9 +4,9 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 501,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2022-01-09": 0,
       "2021-12-21": 17
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -36,6 +37,7 @@
     "timeMonth": 312,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2022-01-09": 0,
       "2021-12-21": 17
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://rongyi.blog",
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "98.81%",
     "uptimeWeek": "99.83%",
