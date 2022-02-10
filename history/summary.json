@@ -22,19 +22,19 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 239,
-    "timeWeek": 228,
-    "timeMonth": 243,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 284,
+    "timeDay": 262,
+    "timeWeek": 232,
+    "timeMonth": 244,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 8
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 110,
-    "timeWeek": 119,
-    "timeMonth": 123,
-    "timeYear": 179,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 197,
+    "timeDay": 1139,
+    "timeWeek": 284,
+    "timeMonth": 161,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 8
     }
   },
   {
