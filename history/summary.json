@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 330,
-    "timeWeek": 454,
+    "timeDay": 328,
+    "timeWeek": 452,
     "timeMonth": 412,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 6
     }
   },
   {
