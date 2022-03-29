@@ -25,12 +25,6 @@ sites:
     # slug: dev-gerrit
     url: https://cr.rongyi.io
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Gerrit-logo.png
-  - name: '[Email] HEY (@rongyi.xyz) inbound'
-    # slug: email-hey-mx
-    check: "tcp-ping"
-    url: work-mx.app.hey.com
-    port: 25
-    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Hey-logo.png
   - name: '[Email] G Suite (@rongyi.io) inbound'
     # slug: email-gsuite-mx
     check: "tcp-ping"
@@ -43,13 +37,13 @@ sites:
     url: smtp.gmail.com
     port: 587
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Google-logo.png
-  - name: '[Email] Office 365 (@ry.sb) inbound'
+  - name: '[Email] Office 365 (@rongyi.xyz) inbound'
     # slug: email-office365-mx
     check: "tcp-ping"
     url: ry-sb.mail.protection.outlook.com
     port: 25
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Office-logo.png
-  - name: '[Email] Office 365 (@ry.sb) outbound'
+  - name: '[Email] Office 365 (@rongyi.xyz) outbound'
     # slug: email-office365-smtp
     check: "tcp-ping"
     url: smtp.office365.com
