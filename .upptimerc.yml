@@ -25,6 +25,11 @@ sites:
     # slug: dev-gerrit
     url: https://cr.rongyi.io
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Gerrit-logo.png
+  - name: "[Dev] SourceGraph @ rongyi.io"
+    url: https://src.rongyi.io
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Sourcegraph-logo.png
+  - name: '[CDN] AWS S3 (cdn.rongyi.io)'
+    url: https://cdn.rongyi.io/index.html
   - name: '[Email] G Suite (@rongyi.io) inbound'
     # slug: email-gsuite-mx
     check: "tcp-ping"
