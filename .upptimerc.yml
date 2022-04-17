@@ -19,7 +19,7 @@ sites:
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg
   - name: '[Dev] Lab @ rongyi.io'
     # slug: dev-lab
-    url: https://lab.rongyi.io
+    url: https://lab.rongyi.io/explore/snippets
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/GitLab-logo.png
   - name: '[Dev] CR @ rongyi.io'
     # slug: dev-gerrit
