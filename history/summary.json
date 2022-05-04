@@ -4,11 +4,11 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
     "timeDay": 392,
@@ -16,7 +16,7 @@
     "timeMonth": 403,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2022-05-04": 8
+      "2022-05-04": 0
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
     "timeDay": 304,
@@ -36,7 +36,7 @@
     "timeMonth": 232,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-05-04": 8
+      "2022-05-04": 0
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://rongyi.blog",
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 181,
@@ -56,7 +56,7 @@
     "timeMonth": 129,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-05-04": 8
+      "2022-05-04": 0
     }
   },
   {
