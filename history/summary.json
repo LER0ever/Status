@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 329,
-    "timeWeek": 458,
-    "timeMonth": 400,
-    "timeYear": 432,
+    "time": 433,
+    "timeDay": 392,
+    "timeWeek": 466,
+    "timeMonth": 403,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2022-05-04": 0
+      "2022-05-04": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 130,
-    "timeWeek": 217,
-    "timeMonth": 226,
-    "timeYear": 265,
+    "time": 267,
+    "timeDay": 304,
+    "timeWeek": 245,
+    "timeMonth": 232,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-05-04": 0
+      "2022-05-04": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 97,
-    "timeWeek": 144,
-    "timeMonth": 126,
-    "timeYear": 153,
+    "time": 154,
+    "timeDay": 181,
+    "timeWeek": 157,
+    "timeMonth": 129,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-05-04": 0
+      "2022-05-04": 8
     }
   },
   {
