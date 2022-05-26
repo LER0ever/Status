@@ -13,6 +13,9 @@ sites:
   - name: '[Web] Blog'
     # slug: web-blog
     url: https://rongyi.blog
+  - name: '[Web] Page'
+    # slug: web-page
+    url: https://rongyi.page
   - name: '[Web] Status Site itself'
     # slug: web-status
     url: https://status.rongyi.io
