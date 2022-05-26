@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 860,
-    "timeWeek": 554,
-    "timeMonth": 462,
+    "timeDay": 816,
+    "timeWeek": 550,
+    "timeMonth": 461,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 565,
-    "timeWeek": 324,
+    "timeDay": 533,
+    "timeWeek": 321,
     "timeMonth": 270,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 1604,
-    "timeWeek": 381,
+    "timeDay": 1492,
+    "timeWeek": 377,
     "timeMonth": 201,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 8
     }
   },
   {
