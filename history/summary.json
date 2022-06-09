@@ -216,10 +216,10 @@
     "url": "ry-sb.mail.protection.outlook.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/Office-logo.png",
     "slug": "email-office-365-rongyi-xyz-inbound",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "67.55%",
-    "uptimeWeek": "95.36%",
+    "uptimeDay": "67.46%",
+    "uptimeWeek": "95.35%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.55%",
     "time": 91,
@@ -228,7 +228,7 @@
     "timeMonth": 96,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-06-09": 313,
+      "2022-06-09": 314,
       "2022-06-08": 155
     }
   },
