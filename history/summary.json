@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 438,
     "timeDay": 431,
-    "timeWeek": 468,
+    "timeWeek": 467,
     "timeMonth": 472,
     "timeYear": 438,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 414,
-    "timeWeek": 311,
+    "timeWeek": 312,
     "timeMonth": 290,
     "timeYear": 270,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 345,
     "timeDay": 315,
-    "timeWeek": 358,
+    "timeWeek": 357,
     "timeMonth": 345,
     "timeYear": 345,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "99.44%",
     "time": 657,
     "timeDay": 1065,
-    "timeWeek": 939,
+    "timeWeek": 942,
     "timeMonth": 839,
     "timeYear": 657,
     "dailyMinutesDown": {
@@ -152,7 +152,7 @@
     "uptimeYear": "100.00%",
     "time": 727,
     "timeDay": 785,
-    "timeWeek": 827,
+    "timeWeek": 828,
     "timeMonth": 778,
     "timeYear": 727,
     "dailyMinutesDown": {}
@@ -206,7 +206,7 @@
     "uptimeYear": "100.00%",
     "time": 13,
     "timeDay": 13,
-    "timeWeek": 21,
+    "timeWeek": 22,
     "timeMonth": 15,
     "timeYear": 13,
     "dailyMinutesDown": {}
@@ -217,18 +217,18 @@
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/Office-logo.png",
     "slug": "email-office-365-rongyi-xyz-inbound",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.77%",
+    "uptimeDay": "83.64%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.77%",
     "time": 90,
     "timeDay": 93,
     "timeWeek": 88,
     "timeMonth": 95,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2022-06-09": 1,
+      "2022-06-09": 82,
       "2022-06-08": 155
     }
   },
