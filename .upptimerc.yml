@@ -45,16 +45,16 @@ sites:
     url: smtp.gmail.com
     port: 587
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Google-logo.png
-  - name: '[Email] Office 365 (@rongyi.xyz) inbound'
-    # slug: email-office365-mx
+  - name: '[Email] Fastmail (@rongyi.xyz) inbound'
+    # slug: email-fastmail-mx
     check: "tcp-ping"
-    url: ry-sb.mail.protection.outlook.com
+    url: in1-smtp.messagingengine.com
     port: 25
-    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Office-logo.png
-  - name: '[Email] Office 365 (@rongyi.xyz) outbound'
-    # slug: email-office365-smtp
+    icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png
+  - name: '[Email] Fastmail (@rongyi.xyz) outbound'
+    # slug: email-fastmail-smtp
     check: "tcp-ping"
-    url: smtp.office365.com
+    url: smtp.fastmail.com
     port: 587
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Office-logo.png
   - name: '[Email] Relay / Bounce (r.rongyi.xyz)'
