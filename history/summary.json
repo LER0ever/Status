@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 408,
-    "timeWeek": 530,
+    "timeDay": 406,
+    "timeWeek": 528,
     "timeMonth": 482,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-08-09": 0
+      "2022-08-09": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 274,
-    "timeWeek": 295,
-    "timeMonth": 293,
+    "timeDay": 268,
+    "timeWeek": 294,
+    "timeMonth": 292,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2022-08-09": 0
+      "2022-08-09": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 160,
-    "timeWeek": 185,
-    "timeMonth": 185,
+    "timeDay": 157,
+    "timeWeek": 184,
+    "timeMonth": 184,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-08-09": 0
+      "2022-08-09": 9
     }
   },
   {
