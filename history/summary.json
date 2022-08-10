@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://favicons.githubusercontent.com/rongyi.xyz",
     "slug": "web-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 451,
-    "timeDay": 486,
-    "timeWeek": 517,
-    "timeMonth": 485,
+    "timeDay": 541,
+    "timeWeek": 525,
+    "timeMonth": 487,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 39
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 215,
-    "timeWeek": 287,
+    "timeDay": 211,
+    "timeWeek": 286,
     "timeMonth": 293,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 39
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/rongyi.blog",
     "slug": "web-blog",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 167,
     "timeDay": 202,
     "timeWeek": 183,
     "timeMonth": 185,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 40
     }
   },
   {
