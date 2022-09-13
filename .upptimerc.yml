@@ -33,6 +33,8 @@ sites:
     icon: https://raw.githubusercontent.com/LER0ever/Status/master/assets/Sourcegraph-logo.png
   - name: '[CDN] AWS S3 (cdn.rongyi.io)'
     url: https://cdn.rongyi.io/index.html
+  - name: '[LiSA] SnowFox API'
+    url: https://snowfox.lisa.rongyi.io
   - name: '[Email] G Suite (@rongyi.io) inbound'
     # slug: email-gsuite-mx
     check: "tcp-ping"
@@ -80,7 +82,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  graphs: "0 0 */3 * *"
+  graphs: "0 0 */15 * *"
   responseTime: "0 */2 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
