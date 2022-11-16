@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 517,
     "timeDay": 379,
-    "timeWeek": 549,
+    "timeWeek": 551,
     "timeMonth": 468,
     "timeYear": 517,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 202,
-    "timeWeek": 231,
+    "timeWeek": 226,
     "timeMonth": 251,
     "timeYear": 273,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 153,
-    "timeWeek": 176,
+    "timeWeek": 175,
     "timeMonth": 168,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -68,8 +68,8 @@
     "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 262,
-    "timeWeek": 321,
-    "timeMonth": 345,
+    "timeWeek": 320,
+    "timeMonth": 346,
     "timeYear": 357,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 770,
     "timeDay": 761,
     "timeWeek": 794,
-    "timeMonth": 786,
+    "timeMonth": 785,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2022-06-21": 40
@@ -243,18 +243,18 @@
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 76,
     "timeDay": 79,
     "timeWeek": 96,
     "timeMonth": 94,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2022-11-16": 4
+      "2022-11-16": 26
     }
   },
   {
@@ -262,19 +262,19 @@
     "url": "smtp.fastmail.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-outbound",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 75,
-    "timeDay": 74,
-    "timeWeek": 92,
-    "timeMonth": 92,
+    "timeDay": 106,
+    "timeWeek": 97,
+    "timeMonth": 93,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2022-11-16": 3
+      "2022-11-16": 22
     }
   },
   {
