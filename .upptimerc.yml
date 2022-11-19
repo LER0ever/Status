@@ -16,6 +16,8 @@ sites:
   - name: '[Web] Page'
     # slug: web-page
     url: https://rongyi.page
+  - name: '[Web] ry.sb'
+    url: https://ry.sb
   - name: '[Web] Status Site itself'
     # slug: web-status
     url: https://status.rongyi.io
