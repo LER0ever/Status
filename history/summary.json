@@ -294,19 +294,19 @@
     "url": "mx1.simplelogin.co",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/Simplelogin-logo.png",
     "slug": "email-relay-bounce-r-rongyi-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 163,
+    "timeDay": 164,
     "timeWeek": 153,
     "timeMonth": 151,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-01-25": 3
+      "2023-01-25": 7
     }
   }
 ]
