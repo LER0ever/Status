@@ -139,19 +139,19 @@
     "url": "https://cr.rongyi.io",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/Gerrit-logo.png",
     "slug": "dev-cr-rongyi-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 478,
-    "timeDay": 525,
-    "timeWeek": 493,
-    "timeMonth": 492,
+    "timeDay": 510,
+    "timeWeek": 492,
+    "timeMonth": 491,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2023-10-10": 2
+      "2023-10-10": 9
     }
   },
   {
