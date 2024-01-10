@@ -199,19 +199,19 @@
     "url": "https://snowfox.lisa.rongyi.io",
     "icon": "https://icons.duckduckgo.com/ip3/snowfox.lisa.rongyi.io.ico",
     "slug": "li-sa-snow-fox-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 269,
-    "timeWeek": 290,
-    "timeMonth": 293,
-    "timeYear": 289,
+    "time": 289,
+    "timeDay": 1399,
+    "timeWeek": 462,
+    "timeMonth": 332,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2024-01-10": 3
+      "2024-01-10": 16
     }
   },
   {
