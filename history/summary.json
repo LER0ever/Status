@@ -192,11 +192,11 @@
     "url": "https://snowfox.lisa.rongyi.io",
     "icon": "https://icons.duckduckgo.com/ip3/snowfox.lisa.rongyi.io.ico",
     "slug": "li-sa-snow-fox-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 321,
@@ -204,6 +204,7 @@
     "timeMonth": 344,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2024-05-08": 3,
       "2024-01-10": 16
     }
   },
