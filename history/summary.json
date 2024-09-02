@@ -252,19 +252,19 @@
     "url": "in1-smtp.messagingengine.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 61,
-    "timeDay": 41,
+    "timeDay": 39,
     "timeWeek": 39,
     "timeMonth": 37,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2024-09-02": 5,
+      "2024-09-02": 8,
       "2024-07-17": 54
     }
   },
@@ -273,19 +273,19 @@
     "url": "smtp.fastmail.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-outbound",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 41,
+    "timeDay": 38,
     "timeWeek": 39,
     "timeMonth": 37,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2024-09-02": 4
+      "2024-09-02": 7
     }
   },
   {
