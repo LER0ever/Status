@@ -1,7 +1,7 @@
 url: in1-smtp.messagingengine.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-02T04:27:48.999Z
+status: up
+code: 200
+responseTime: 10
+lastUpdated: 2024-09-02T04:35:39.338Z
 startTime: 2022-06-09T08:45:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
