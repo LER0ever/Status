@@ -248,10 +248,10 @@
     "url": "in1-smtp.messagingengine.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 38,
@@ -260,7 +260,7 @@
     "timeMonth": 35,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2025-01-24": 3,
+      "2025-01-24": 5,
       "2024-07-17": 54
     }
   },
