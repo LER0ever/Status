@@ -76,19 +76,19 @@
     "url": "https://ry.sb",
     "icon": "https://icons.duckduckgo.com/ip3/ry.sb.ico",
     "slug": "web-ry-sb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 672,
-    "timeWeek": 465,
-    "timeMonth": 491,
+    "timeDay": 648,
+    "timeWeek": 463,
+    "timeMonth": 490,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 12
     }
   },
   {
