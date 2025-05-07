@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.xyz.ico",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 566,
-    "timeWeek": 506,
+    "timeDay": 575,
+    "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2025-05-07": 7
+      "2025-05-07": 14
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 224,
@@ -36,7 +36,7 @@
     "timeMonth": 225,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 7
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://ry.sb",
     "icon": "https://icons.duckduckgo.com/ip3/ry.sb.ico",
     "slug": "web-ry-sb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 553,
-    "timeDay": 572,
-    "timeWeek": 540,
-    "timeMonth": 604,
+    "timeDay": 565,
+    "timeWeek": 539,
+    "timeMonth": 603,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2025-05-07": 1
+      "2025-05-07": 7
     }
   },
   {
