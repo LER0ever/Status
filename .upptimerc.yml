@@ -36,7 +36,7 @@ sites:
   - name: '[CDN] AWS S3 (cdn.rongyi.io)'
     url: https://cdn.rongyi.io/index.html
   - name: '[LiSA] SnowFox API'
-    url: https://snowfox.lisa.rongyi.io
+    url: https://snowfox.lifeos.so
   - name: '[Email] G Suite (@rongyi.io) inbound'
     # slug: email-gsuite-mx
     check: "tcp-ping"
