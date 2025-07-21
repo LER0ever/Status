@@ -40,19 +40,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.blog.ico",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 159,
-    "timeWeek": 179,
-    "timeMonth": 188,
+    "timeDay": 155,
+    "timeWeek": 178,
+    "timeMonth": 187,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-07-21": 1
+      "2025-07-21": 11
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://rongyi.page",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.page.ico",
     "slug": "web-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 149,
-    "timeWeek": 204,
+    "timeDay": 145,
+    "timeWeek": 203,
     "timeMonth": 163,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-07-21": 1
+      "2025-07-21": 11
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://status.rongyi.io",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg",
     "slug": "web-status-site-itself",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 2935,
-    "timeWeek": 1691,
-    "timeMonth": 1078,
+    "timeDay": 2788,
+    "timeWeek": 1682,
+    "timeMonth": 1077,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-07-21": 1
+      "2025-07-21": 11
     }
   },
   {
