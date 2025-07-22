@@ -40,19 +40,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.blog.ico",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 263,
-    "timeWeek": 198,
+    "timeDay": 249,
+    "timeWeek": 197,
     "timeMonth": 191,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-07-22": 1
+      "2025-07-22": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://rongyi.page",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.page.ico",
     "slug": "web-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 144,
+    "timeDay": 143,
     "timeWeek": 149,
     "timeMonth": 163,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-07-22": 1
+      "2025-07-22": 6
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://status.rongyi.io",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg",
     "slug": "web-status-site-itself",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 2710,
-    "timeWeek": 1973,
-    "timeMonth": 1143,
+    "timeDay": 2566,
+    "timeWeek": 1958,
+    "timeMonth": 1142,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-07-22": 1
+      "2025-07-22": 7
     }
   },
   {
