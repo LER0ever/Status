@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.xyz.ico",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 512,
-    "timeDay": 449,
-    "timeWeek": 492,
-    "timeMonth": 529,
+    "timeDay": 437,
+    "timeWeek": 490,
+    "timeMonth": 528,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 199,
+    "timeDay": 195,
     "timeWeek": 206,
     "timeMonth": 213,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 11
     }
   },
   {
