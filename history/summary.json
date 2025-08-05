@@ -4,19 +4,19 @@
     "url": "https://rongyi.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.xyz.ico",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 512,
-    "timeDay": 490,
-    "timeWeek": 459,
+    "timeDay": 483,
+    "timeWeek": 458,
     "timeMonth": 486,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-08-05": 1
+      "2025-08-05": 28
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rongyi.ai",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/GScholar-logo.png",
     "slug": "web-academic-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 926,
-    "timeWeek": 289,
+    "timeDay": 867,
+    "timeWeek": 287,
     "timeMonth": 218,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-08-05": 1
+      "2025-08-05": 27
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://ry.sb",
     "icon": "https://icons.duckduckgo.com/ip3/ry.sb.ico",
     "slug": "web-ry-sb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 545,
-    "timeDay": 428,
-    "timeWeek": 570,
+    "timeDay": 421,
+    "timeWeek": 567,
     "timeMonth": 477,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-08-05": 2
+      "2025-08-05": 27
     }
   },
   {
