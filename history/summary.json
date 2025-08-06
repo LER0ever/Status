@@ -44,19 +44,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.blog.ico",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 144,
-    "timeWeek": 197,
+    "time": 171,
+    "timeDay": 140,
+    "timeWeek": 195,
     "timeMonth": 184,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-08-06": 1
+      "2025-08-06": 11
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://rongyi.page",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.page.ico",
     "slug": "web-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 214,
-    "timeWeek": 166,
+    "timeDay": 204,
+    "timeWeek": 165,
     "timeMonth": 164,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-08-06": 1
+      "2025-08-06": 11
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://status.rongyi.io",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg",
     "slug": "web-status-site-itself",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 446,
-    "timeDay": 893,
-    "timeWeek": 821,
-    "timeMonth": 1065,
+    "timeDay": 875,
+    "timeWeek": 819,
+    "timeMonth": 1064,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-08-06": 2
+      "2025-08-06": 11
     }
   },
   {
