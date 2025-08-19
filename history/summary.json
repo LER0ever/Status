@@ -183,8 +183,8 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.81%",
-    "uptimeMonth": "78.56%",
+    "uptimeWeek": "6.71%",
+    "uptimeMonth": "78.53%",
     "uptimeYear": "98.21%",
     "time": 191,
     "timeDay": 428,
@@ -192,7 +192,7 @@
     "timeMonth": 261,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-08-19": 266,
+      "2025-08-19": 276,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -272,19 +272,19 @@
     "url": "in1-smtp.messagingengine.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 34,
-    "timeWeek": 38,
+    "timeDay": 32,
+    "timeWeek": 37,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2025-08-19": 5
+      "2025-08-19": 11
     }
   },
   {
