@@ -44,10 +44,10 @@
     "url": "https://rongyi.blog",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.blog.ico",
     "slug": "web-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
@@ -55,17 +55,19 @@
     "timeWeek": 194,
     "timeMonth": 198,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 2
+    }
   },
   {
     "name": "[Web] Page",
     "url": "https://rongyi.page",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.page.ico",
     "slug": "web-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
@@ -73,7 +75,9 @@
     "timeWeek": 148,
     "timeMonth": 151,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 2
+    }
   },
   {
     "name": "[Web] ry.sb",
@@ -100,10 +104,10 @@
     "url": "https://status.rongyi.io",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg",
     "slug": "web-status-site-itself",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
@@ -111,7 +115,9 @@
     "timeWeek": 1211,
     "timeMonth": 1060,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 2
+    }
   },
   {
     "name": "[Dev] Lab @ rongyi.io",
@@ -184,15 +190,15 @@
     "uptime": "98.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.42%",
-    "uptimeYear": "96.37%",
+    "uptimeMonth": "56.38%",
+    "uptimeYear": "96.36%",
     "time": 193,
     "timeDay": 422,
     "timeWeek": 347,
     "timeMonth": 288,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-08-25": 1325,
+      "2025-08-25": 1338,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
