@@ -31,7 +31,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 575,
+    "timeDay": 602,
     "timeWeek": 276,
     "timeMonth": 250,
     "timeYear": 223,
@@ -44,19 +44,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.blog.ico",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 254,
-    "timeWeek": 195,
+    "timeDay": 244,
+    "timeWeek": 194,
     "timeMonth": 199,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-08-26": 2
+      "2025-08-26": 7
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://rongyi.page",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.page.ico",
     "slug": "web-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 171,
+    "timeDay": 175,
     "timeWeek": 147,
     "timeMonth": 151,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 7
     }
   },
   {
@@ -91,7 +91,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 545,
-    "timeDay": 492,
+    "timeDay": 468,
     "timeWeek": 592,
     "timeMonth": 521,
     "timeYear": 543,
@@ -104,19 +104,19 @@
     "url": "https://status.rongyi.io",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg",
     "slug": "web-status-site-itself",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 1078,
-    "timeWeek": 1215,
-    "timeMonth": 1060,
+    "time": 499,
+    "timeDay": 1072,
+    "timeWeek": 1210,
+    "timeMonth": 1059,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 6
     }
   },
   {
@@ -190,7 +190,7 @@
     "uptime": "98.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.59%",
+    "uptimeMonth": "55.58%",
     "uptimeYear": "96.30%",
     "time": 193,
     "timeDay": 352,
@@ -198,7 +198,7 @@
     "timeMonth": 288,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-08-26": 246,
+      "2025-08-26": 252,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -330,7 +330,7 @@
     "time": 118,
     "timeDay": 109,
     "timeWeek": 120,
-    "timeMonth": 117,
+    "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
