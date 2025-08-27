@@ -44,19 +44,19 @@
     "url": "https://rongyi.blog",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.blog.ico",
     "slug": "web-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 540,
-    "timeWeek": 245,
+    "timeDay": 524,
+    "timeWeek": 246,
     "timeMonth": 210,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-08-27": 2
+      "2025-08-27": 9
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://rongyi.page",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.page.ico",
     "slug": "web-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 433,
+    "timeDay": 417,
     "timeWeek": 193,
     "timeMonth": 161,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-08-27": 2
+      "2025-08-27": 9
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://status.rongyi.io",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/upptime-icon.svg",
     "slug": "web-status-site-itself",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 502,
-    "timeDay": 918,
-    "timeWeek": 1481,
-    "timeMonth": 1132,
+    "timeDay": 896,
+    "timeWeek": 1471,
+    "timeMonth": 1130,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2025-08-27": 2
+      "2025-08-27": 8
     }
   },
   {
@@ -190,7 +190,7 @@
     "uptime": "98.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.11%",
+    "uptimeMonth": "50.09%",
     "uptimeYear": "95.84%",
     "time": 194,
     "timeDay": 352,
@@ -198,7 +198,7 @@
     "timeMonth": 295,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-08-27": 1207,
+      "2025-08-27": 1214,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
