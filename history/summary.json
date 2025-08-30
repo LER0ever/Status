@@ -13,7 +13,7 @@
     "time": 516,
     "timeDay": 547,
     "timeWeek": 583,
-    "timeMonth": 533,
+    "timeMonth": 534,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-08-05": 28
@@ -95,7 +95,7 @@
     "time": 545,
     "timeDay": 712,
     "timeWeek": 638,
-    "timeMonth": 552,
+    "timeMonth": 553,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2025-08-05": 27
@@ -115,7 +115,7 @@
     "time": 508,
     "timeDay": 899,
     "timeWeek": 1437,
-    "timeMonth": 1135,
+    "timeMonth": 1137,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2025-08-29": 20
@@ -135,7 +135,7 @@
     "time": 696,
     "timeDay": 657,
     "timeWeek": 703,
-    "timeMonth": 712,
+    "timeMonth": 713,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2025-06-30": 601,
@@ -192,7 +192,7 @@
     "uptime": "98.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.44%",
+    "uptimeMonth": "42.41%",
     "uptimeYear": "95.20%",
     "time": 196,
     "timeDay": 269,
@@ -200,7 +200,7 @@
     "timeMonth": 314,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-08-30": 248,
+      "2025-08-30": 258,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -235,7 +235,7 @@
     "time": 447,
     "timeDay": 636,
     "timeWeek": 627,
-    "timeMonth": 569,
+    "timeMonth": 570,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2025-06-20": 25,
@@ -291,19 +291,19 @@
     "url": "in1-smtp.messagingengine.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 28,
+    "timeDay": 30,
     "timeWeek": 38,
     "timeMonth": 37,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2025-08-30": 3,
+      "2025-08-30": 11,
       "2025-08-29": 7
     }
   },
