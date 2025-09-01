@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 516,
-    "timeDay": 481,
-    "timeWeek": 567,
-    "timeMonth": 538,
+    "timeDay": 486,
+    "timeWeek": 548,
+    "timeMonth": 540,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-08-05": 28
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 218,
-    "timeWeek": 302,
-    "timeMonth": 262,
-    "timeYear": 223,
+    "timeDay": 269,
+    "timeWeek": 253,
+    "timeMonth": 264,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-08-05": 27
     }
@@ -50,9 +50,9 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 175,
-    "timeDay": 196,
-    "timeWeek": 229,
+    "time": 174,
+    "timeDay": 201,
+    "timeWeek": 217,
     "timeMonth": 205,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -72,8 +72,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 130,
-    "timeWeek": 184,
+    "timeDay": 129,
+    "timeWeek": 181,
     "timeMonth": 158,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -93,8 +93,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 544,
-    "timeDay": 378,
-    "timeWeek": 570,
+    "timeDay": 384,
+    "timeWeek": 557,
     "timeMonth": 534,
     "timeYear": 544,
     "dailyMinutesDown": {
@@ -112,11 +112,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 857,
-    "timeWeek": 1165,
-    "timeMonth": 1139,
-    "timeYear": 524,
+    "time": 515,
+    "timeDay": 931,
+    "timeWeek": 1144,
+    "timeMonth": 1138,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2025-08-29": 20
     }
@@ -133,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 697,
-    "timeDay": 661,
-    "timeWeek": 703,
-    "timeMonth": 718,
+    "timeDay": 654,
+    "timeWeek": 701,
+    "timeMonth": 720,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2025-06-30": 601,
@@ -154,10 +154,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 542,
-    "timeDay": 580,
-    "timeWeek": 562,
-    "timeMonth": 546,
-    "timeYear": 542,
+    "timeDay": 548,
+    "timeWeek": 561,
+    "timeMonth": 547,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2025-06-30": 600,
       "2024-11-25": 39
@@ -175,10 +175,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 809,
-    "timeDay": 846,
-    "timeWeek": 817,
-    "timeMonth": 827,
-    "timeYear": 811,
+    "timeDay": 845,
+    "timeWeek": 822,
+    "timeMonth": 832,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2025-06-30": 589
     }
@@ -189,18 +189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.rongyi.io.ico",
     "slug": "cdn-aws-s3-cdn-rongyi-io",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.65%",
-    "uptimeYear": "94.72%",
+    "uptimeMonth": "34.23%",
+    "uptimeYear": "94.52%",
     "time": 197,
-    "timeDay": 246,
-    "timeWeek": 385,
-    "timeMonth": 313,
+    "timeDay": 269,
+    "timeWeek": 369,
+    "timeMonth": 314,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-08-31": 1342,
+      "2025-09-01": 964,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -234,10 +235,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.58%",
     "time": 448,
-    "timeDay": 566,
-    "timeWeek": 574,
-    "timeMonth": 578,
-    "timeYear": 450,
+    "timeDay": 467,
+    "timeWeek": 568,
+    "timeMonth": 579,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-06-20": 25,
       "2025-05-14": 322,
@@ -247,8 +248,7 @@
       "2025-05-10": 1440,
       "2025-05-09": 238,
       "2024-09-09": 837,
-      "2024-09-08": 237,
-      "2024-09-01": 39
+      "2024-09-08": 237
     }
   },
   {
@@ -263,7 +263,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 12,
-    "timeDay": 11,
+    "timeDay": 10,
     "timeWeek": 11,
     "timeMonth": 11,
     "timeYear": 12,
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 12,
     "timeDay": 10,
-    "timeWeek": 11,
+    "timeWeek": 10,
     "timeMonth": 11,
     "timeYear": 12,
     "dailyMinutesDown": {}
@@ -294,17 +294,17 @@
     "slug": "email-fastmail-rongyi-xyz-inbound",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 36,
-    "timeDay": 42,
-    "timeWeek": 35,
-    "timeMonth": 37,
+    "timeDay": 40,
+    "timeWeek": 36,
+    "timeMonth": 38,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2025-08-31": 35,
+      "2025-08-31": 24,
       "2025-08-29": 7
     }
   },
@@ -320,8 +320,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 39,
-    "timeWeek": 36,
+    "timeDay": 40,
+    "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 36,
     "dailyMinutesDown": {}
@@ -340,7 +340,7 @@
     "time": 118,
     "timeDay": 120,
     "timeWeek": 118,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
