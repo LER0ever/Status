@@ -1,7 +1,7 @@
 url: https://status.rongyi.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-02T15:13:26.245Z
+status: up
+code: 200
+responseTime: 682
+lastUpdated: 2025-09-02T15:24:17.221Z
 startTime: 2021-12-06T00:40:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
