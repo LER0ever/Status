@@ -13,7 +13,7 @@
     "time": 517,
     "timeDay": 527,
     "timeWeek": 494,
-    "timeMonth": 545,
+    "timeMonth": 535,
     "timeYear": 514,
     "dailyMinutesDown": {
       "2025-08-05": 28
@@ -97,7 +97,7 @@
     "time": 540,
     "timeDay": 418,
     "timeWeek": 475,
-    "timeMonth": 523,
+    "timeMonth": 524,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-08-05": 27
@@ -192,18 +192,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.rongyi.io.ico",
     "slug": "cdn-aws-s3-cdn-rongyi-io",
     "status": "up",
-    "uptime": "97.19%",
+    "uptime": "97.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.38%",
+    "uptimeYear": "90.37%",
     "time": 204,
     "timeDay": 331,
     "timeWeek": 331,
     "timeMonth": 351,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-09-16": 1108,
+      "2025-09-16": 1163,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -308,11 +308,11 @@
     "url": "in1-smtp.messagingengine.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 36,
     "timeDay": 38,
@@ -320,7 +320,7 @@
     "timeMonth": 38,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2025-09-16": 13,
+      "2025-09-16": 5,
       "2025-08-31": 24,
       "2025-08-29": 7
     }
