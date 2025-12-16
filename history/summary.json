@@ -182,7 +182,7 @@
     "timeMonth": 755,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-12-16": 283,
+      "2025-12-16": 294,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -429,19 +429,19 @@
     "url": "smtp.fastmail.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-outbound",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 37,
+    "timeDay": 35,
     "timeWeek": 39,
     "timeMonth": 38,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-12-16": 6
+      "2025-12-16": 12
     }
   },
   {
