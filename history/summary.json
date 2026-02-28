@@ -4,9 +4,9 @@
     "url": "https://rongyi.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/rongyi.xyz.ico",
     "slug": "web-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 566,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2026-02-11": 18,
       "2025-08-05": 28
     }
@@ -181,14 +182,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.91%",
+    "uptimeYear": "68.90%",
     "time": 816,
     "timeDay": 574,
     "timeWeek": 580,
     "timeMonth": 693,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2026-02-28": 44,
+      "2026-02-28": 79,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
