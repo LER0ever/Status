@@ -99,16 +99,16 @@
     "url": "https://ry.sb",
     "icon": "https://icons.duckduckgo.com/ip3/ry.sb.ico",
     "slug": "web-ry-sb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
     "time": 524,
-    "timeDay": 563,
-    "timeWeek": 506,
-    "timeMonth": 535,
+    "timeDay": 547,
+    "timeWeek": 504,
+    "timeMonth": 534,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-08-05": 27,
@@ -116,7 +116,7 @@
       "2026-03-11": 20,
       "2026-05-10": 20,
       "2026-05-19": 29,
-      "2026-06-24": 2
+      "2026-06-24": 48
     }
   },
   {
@@ -196,7 +196,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.96%",
+    "uptimeYear": "36.95%",
     "time": 730,
     "timeDay": 451,
     "timeWeek": 401,
@@ -204,7 +204,7 @@
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-06-30": 589,
-      "2026-06-24": 922,
+      "2026-06-24": 969,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
