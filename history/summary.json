@@ -153,7 +153,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 656,
+    "time": 658,
     "timeDay": 637,
     "timeWeek": 725,
     "timeMonth": 681,
@@ -190,7 +190,7 @@
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/Sourcegraph-logo.png",
     "slug": "dev-source-graph-rongyi-io",
     "status": "down",
-    "uptime": "77.73%",
+    "uptime": "77.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.12%",
@@ -552,7 +552,7 @@
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
-      "2026-11-14": 236,
+      "2026-11-14": 362,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
@@ -578,7 +578,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.83%",
     "time": 254,
     "timeDay": 495,
     "timeWeek": 341,
@@ -619,10 +619,10 @@
     "slug": "email-g-suite-rongyi-io-inbound",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.89%",
     "time": 15,
     "timeDay": 12,
     "timeWeek": 17,
@@ -632,7 +632,7 @@
       "2026-11-01": 18,
       "2026-11-03": 124,
       "2026-11-05": 286,
-      "2026-11-14": 14
+      "2026-11-14": 140
     }
   },
   {
@@ -659,11 +659,11 @@
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.97%",
+    "uptimeDay": "90.46%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.89%",
     "time": 41,
     "timeDay": 19,
     "timeWeek": 42,
@@ -673,7 +673,7 @@
       "2026-02-23": 18,
       "2026-11-03": 120,
       "2026-11-05": 282,
-      "2026-11-14": 11
+      "2026-11-14": 137
     }
   },
   {
@@ -701,10 +701,10 @@
     "slug": "email-relay-bounce-r-rongyi-xyz",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.90%",
     "time": 122,
     "timeDay": 116,
     "timeWeek": 127,
@@ -713,7 +713,7 @@
     "dailyMinutesDown": {
       "2026-11-03": 116,
       "2026-11-05": 278,
-      "2026-11-14": 7
+      "2026-11-14": 134
     }
   }
 ]
