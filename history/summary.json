@@ -198,7 +198,7 @@
     "timeDay": 419,
     "timeWeek": 374,
     "timeMonth": 471,
-    "timeYear": 560,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2026-10-31": 448,
       "2026-10-30": 1440,
@@ -540,7 +540,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2026-11-25": 1268,
+      "2026-11-25": 1364,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -615,14 +615,14 @@
     "url": "aspmx.l.google.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/Google-logo.png",
     "slug": "email-g-suite-rongyi-io-inbound",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "74.99%",
-    "uptimeWeek": "88.86%",
-    "uptimeMonth": "92.07%",
-    "uptimeYear": "99.34%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "75.39%",
+    "uptimeWeek": "87.97%",
+    "uptimeMonth": "91.87%",
+    "uptimeYear": "99.32%",
     "time": 15,
-    "timeDay": 5,
+    "timeDay": 4,
     "timeWeek": 12,
     "timeMonth": 14,
     "timeYear": 16,
@@ -636,7 +636,7 @@
       "2026-11-17": 364,
       "2026-11-20": 507,
       "2026-11-24": 427,
-      "2026-11-25": 189
+      "2026-11-25": 279
     }
   },
   {
@@ -662,15 +662,15 @@
     "url": "in1-smtp.messagingengine.com",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/FM-logo.png",
     "slug": "email-fastmail-rongyi-xyz-inbound",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "75.56%",
-    "uptimeWeek": "89.05%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "76.05%",
+    "uptimeWeek": "88.17%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "99.33%",
     "time": 40,
-    "timeDay": 40,
-    "timeWeek": 51,
+    "timeDay": 30,
+    "timeWeek": 50,
     "timeMonth": 42,
     "timeYear": 40,
     "dailyMinutesDown": {
@@ -683,7 +683,7 @@
       "2026-11-17": 359,
       "2026-11-20": 503,
       "2026-11-24": 418,
-      "2026-11-25": 182
+      "2026-11-25": 271
     }
   },
   {
@@ -699,7 +699,7 @@
     "uptimeYear": "100.00%",
     "time": 40,
     "timeDay": 76,
-    "timeWeek": 52,
+    "timeWeek": 53,
     "timeMonth": 43,
     "timeYear": 40,
     "dailyMinutesDown": {}
@@ -709,14 +709,14 @@
     "url": "mx1.simplelogin.co",
     "icon": "https://raw.githubusercontent.com/LER0ever/Status/master/assets/Simplelogin-logo.png",
     "slug": "email-relay-bounce-r-rongyi-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "76.13%",
-    "uptimeWeek": "89.25%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "76.65%",
+    "uptimeWeek": "88.38%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "99.34%",
     "time": 122,
-    "timeDay": 122,
+    "timeDay": 116,
     "timeWeek": 132,
     "timeMonth": 125,
     "timeYear": 122,
@@ -729,7 +729,7 @@
       "2026-11-17": 355,
       "2026-11-20": 499,
       "2026-11-24": 410,
-      "2026-11-25": 175
+      "2026-11-25": 262
     }
   }
 ]
